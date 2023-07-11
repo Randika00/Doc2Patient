@@ -1,4 +1,5 @@
-# Doc2Patient
+## Doc2Patient
+`Osgi` `microservies` `C#` `Visual Studio`
 This is a Doctor and Patient handling proceed.
 This application uses information acquired from patient illness recognitions to create clinical 
 conclusions. Using evaluation and examination results, identify the medical issues that require 
