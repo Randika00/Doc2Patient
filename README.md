@@ -8,3 +8,4 @@ particular care.With the use of this program, handling patient admissions is mad
 Doctors can easily input each patient's information, calculate bed costs, set up admission dates, and
 quickly release patients.All crappy operations are covered. Additionally, the system can add, edit, and
 remove data, as well as send every patient to a doctor.
+ 
