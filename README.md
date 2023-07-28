@@ -7,5 +7,5 @@ conclusions. Using evaluation and examination results, identify the medical issu
 particular care.With the use of this program, handling patient admissions is made incredibly simple.
 Doctors can easily input each patient's information, calculate bed costs, set up admission dates, and
 quickly release patients.All crappy operations are covered. Additionally, the system can add, edit, 
-and remove data, as well as send every patient to a doctor. 
+and remove data, as well as send every patient to a doctor.  
  
